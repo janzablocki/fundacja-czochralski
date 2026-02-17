@@ -6,8 +6,15 @@ function Brand() {
   return (
     <NavLink className="brand" to="/" aria-label="Strona główna Fundacji im. Jana Czochralskiego">
       <img
-        className="brand-logo"
+        className="brand-logo brand-logo-desktop"
         src={`${base}/assets/media/logo.svg`}
+        alt="Fundacja im. Jana Czochralskiego"
+        loading="eager"
+        decoding="async"
+      />
+      <img
+        className="brand-logo brand-logo-mobile"
+        src={`${base}/assets/media/logo-mark.svg`}
         alt="Fundacja im. Jana Czochralskiego"
         loading="eager"
         decoding="async"

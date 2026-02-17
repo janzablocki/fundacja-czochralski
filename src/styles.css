@@ -142,6 +142,9 @@ a:hover{text-decoration: underline; text-underline-offset: 4px; text-decoration-
   width: auto;
   display: block;
 }
+.brand-logo-mobile{
+  display: none;
+}
 .brand-mark{
   width:10px;height:28px;
   border-radius: 999px;
@@ -554,18 +557,34 @@ dialog::backdrop{background: rgba(15,26,22,.55)}
 }
 
 @media (max-width: 900px){
+  main{ padding: 74px 0 88px; }
+  .container{ padding: 0 16px; }
+  .site-header .container{ padding: 0 8px; }
+  .header-top{ display: none; }
+  .header-inner{
+    min-height: 74px;
+    padding: 10px 0;
+  }
+  .brand-logo-desktop{ display: none; }
+  .brand-logo-mobile{
+    display: block;
+    height: 46px;
+  }
   .card{grid-column: span 12}
   .result{grid-column: span 12}
   .field{grid-column: span 12}
   .field.wide{grid-column: span 12}
   .footer-inner{grid-template-columns: 1fr; }
   .site-nav{display:none}
-  .nav-toggle{display:inline-flex}
+  .nav-toggle{
+    display:inline-flex;
+    margin-left: auto;
+  }
   .site-nav.is-open{
     position:absolute;
-    top: 72px;
-    right: 20px;
-    left: 20px;
+    top: 74px;
+    right: 8px;
+    left: 8px;
     display:flex;
     flex-direction: column;
     padding: 12px;
@@ -580,9 +599,13 @@ dialog::backdrop{background: rgba(15,26,22,.55)}
     gap: 18px;
   }
   .hero-media{max-width: 760px; margin-left: 0}
+  .section-title{
+    align-items:flex-start;
+    flex-direction:column;
+  }
   .hero--fullscreen{
-    margin-top: -86px;
-    padding-top: 86px;
+    margin-top: -74px;
+    padding-top: 74px;
     height: 100svh;
     min-height: 100svh;
     max-height: 100svh;
@@ -596,11 +619,11 @@ dialog::backdrop{background: rgba(15,26,22,.55)}
       ),
       var(--hero-image);
   }
-  .hero--fullscreen-inner{ padding-bottom: 54px; }
+  .hero--fullscreen-inner{ padding: 0 16px 42px; }
   .hero--fullscreen .hero-copy{ max-width: 78ch; }
   .about-hero{
-    margin-top: -86px;
-    padding-top: 86px;
+    margin-top: -74px;
+    padding-top: 74px;
     height: 100svh;
     min-height: 100svh;
     max-height: 100svh;
@@ -609,7 +632,7 @@ dialog::backdrop{background: rgba(15,26,22,.55)}
       var(--about-image);
     background-position: 62% center;
   }
-  .about-hero-inner{ padding-bottom: 64px; }
+  .about-hero-inner{ padding: 0 16px 52px; }
   .about-hero-copy{ max-width: 80ch; }
 }
 
