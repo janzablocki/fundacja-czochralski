@@ -1,0 +1,30 @@
+[
+  {
+    "id": "debata-transformacja-2025-11",
+    "title": "Debata ekspercka: tempo i koszty transformacji energetycznej",
+    "date": "2025-11-18",
+    "category": "konferencja-debata",
+    "location": "Warszawa",
+    "partner": "Partner strategiczny (placeholder)",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Panel dyskusyjny z udziałem przedstawicieli administracji, biznesu i nauki."
+  },
+  {
+    "id": "warsztat-asr-2024-06",
+    "title": "Warsztaty: analiza skutków regulacji (ASR) — praktyka dla sektora",
+    "date": "2024-06-05",
+    "category": "warsztaty-szkolenia",
+    "location": "Online",
+    "partner": "WPiA (placeholder)",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Metodyka ASR, typowe błędy i przykłady wdrożeń."
+  },
+  {
+    "id": "partnerstwo-ministerstwo-2025-03",
+    "title": "Wydarzenie partnerskie: dialog regulacyjny dla rynku paliw",
+    "date": "2025-03-22",
+    "category": "partnerstwa",
+    "location": "Gdańsk",
+    "partner": "Instytucja publiczna (placeholder)",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Współorganizowane spotkanie robocze dotyczące kierunków legislacji."
+  }
+]
+

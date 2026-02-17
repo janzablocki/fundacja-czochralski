@@ -1,0 +1,56 @@
+[
+  {
+    "id": "raport-2025-rynek-energii",
+    "title": "Raport Roczny 2025: Rynek energii i paliw w Polsce",
+    "year": 2025,
+    "type": "raport-roczny",
+    "tags": ["rynek", "bezpieczenstwo", "ceny", "transformacja"],
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Analiza trendów, ryzyk i rekomendacji dla bezpieczeństwa energetycznego.",
+    "pdfUrl": "/assets/publikacje/raport-2025-rynek-energii.pdf"
+  },
+  {
+    "id": "whitepaper-wodor-2024",
+    "title": "White Paper: Wodór w łańcuchu wartości (2024)",
+    "year": 2024,
+    "type": "white-paper",
+    "tags": ["wodor", "OZE", "infrastruktura", "regulacje"],
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Przegląd technologii, barier wdrożeniowych i scenariuszy regulacyjnych.",
+    "pdfUrl": "/assets/publikacje/whitepaper-wodor-2024.pdf"
+  },
+  {
+    "id": "whitepaper-smr-2025",
+    "title": "White Paper: SMR — aspekty technologiczne i regulacyjne (2025)",
+    "year": 2025,
+    "type": "white-paper",
+    "tags": ["SMR", "atom", "regulacje", "bezpieczenstwo"],
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Wprowadzenie do SMR, modele licencjonowania oraz ryzyka prawne.",
+    "pdfUrl": "/assets/publikacje/whitepaper-smr-2025.pdf"
+  },
+  {
+    "id": "opinia-asr-2023",
+    "title": "Opinia prawna: Skutki regulacji (ASR) dla sektora energetycznego (2023)",
+    "year": 2023,
+    "type": "opinia-prawna",
+    "tags": ["ASR", "prawo", "regulacje"],
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ocena wpływu zmian regulacyjnych na przedsiębiorstwa i odbiorców.",
+    "pdfUrl": "/assets/publikacje/opinia-asr-2023.pdf"
+  },
+  {
+    "id": "krokodyle-wspinaja-sie-na-drzewa-2026",
+    "title": "Zaskakujące badanie: krokodyle wspinają się na drzewa",
+    "year": 2026,
+    "type": "white-paper",
+    "tags": ["badania", "zachowanie", "krokodyle", "ewolucja"],
+    "summary": "Dotąd kojarzyły nam się z niewidzialnymi zabójcami czyhającymi godzinami w wodzie na swoją ofiarę. Wychodzi na to, że krokodyle są jeszcze lepszymi drapieżnikami, niż nam się wydawało.",
+    "content": [
+      "Dotąd kojarzyły nam się z niewidzialnymi zabójcami czyhającymi godzinami w wodzie na swoją ofiarę. Wychodzi na to, że krokodyle są jeszcze lepszymi drapieżnikami, niż nam się wydawało.",
+      "Badanie naukowców z Uniwersytetu w Tennessee opisuje zaskakujące zachowanie krokodyli. Okazuje się, że krokodyle wspinają się na drzewa. Chociaż ich budowa ciała nie jest przystosowana do tego typu lokomocji, jest to zachowanie spotykane u krokodyli na całym świecie.",
+      "Badacze pod przewodnictwem Vladimira Dinetsa opisali przypadki wspinania się na drzewa u czterech gatunków krokodyli na trzech kontynentach. Zaobserwowane krokodyle zwykle wspinały się na wysokość do dwóch metrów, choć niektóre osobniki wspinały się nawet cztery metry, aż po samą koronę.",
+      "Wspinają się przede wszystkim młode krokodyle. Im młodsze i mniejsze, tym lepiej sobie z tym radzą. Młode australijskie krokodyle potrafią nawet wspiąć się po całkowicie pionowych powierzchniach (potrafią pokonać np. ceglany mur).",
+      "Krokodyle wspinają się na drzewa z dwóch powodów. Po pierwsze - wysokie gałęzie są dobrym miejscem do wygrzewania się, a w efekcie regulowania swojej temperatury. Po drugie - są to doskonałe punkty obserwacyjne. Z wysokości mogą kontrolować bardzo duży obszar, a jednocześnie są przy tym bezpieczne. Dostęp na ich gałąź jest ograniczony, a w razie niebezpieczeństwa od razu zsuwają się do wody.",
+      "Odkrycie to jest bardzo ciekawe z ewolucyjnego punktu widzenia. Jak zwracają uwagę badacze, dzisiejsze krokodyle nie posiadają żadnych widocznych cech przystosowujących ich do nadrzewnego trybu życia. A mimo wszystko wspinają się i korzystają z drzew. Może być to ważna obserwacja dla paleontologów badających skamieniałości wymarłych gatunków. Tryb życia i zachowanie wymarłych zwierząt poznajemy głównie po budowie ich ciała. Przypadek krokodyli pokazuje, że niektórych zachowań po prostu nie da się przewidzieć.",
+      "Choć krokodyle żyją na Ziemi od kilkudziesięciu milionów lat (są blisko spokrewnione z dinozaurami), to wciąż nie przestają nas zaskakiwać. Vladimir Dinets, który przewodził badaniu, w zeszłym roku także odkrył, że krokodyle używają narzędzi do polowań. W czasopiśmie \"Ethology Ecology & Evolution\" opisał, jak krokodyle kładą sobie gałązki i patyki na swoim pysku, by zwabić ptaki. Metodę z patykami gady używały tylko wtedy, kiedy u ptaków trwał sezon na budowanie gniazd."
+    ]
+  }
+]
+
